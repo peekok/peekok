@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Certified Freelancer<br>🤝 I’m looking for help with almost anything<br>🌱 I’m currently learning Artifical Intelligence<br>💬 Ask me about JavaScript/Java<br>⚡ Fun fact: I just graduated 
+🔭 Certified Freelancer<br>🌱 I’m currently learning Artifical Intelligence<br>💬 Ask me about JavaScript/Java<br>⚡ Fun fact: I just graduated 
 
 
 ## 🌐 Socials:

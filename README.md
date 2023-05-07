@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Certified Freelancer<br>🌱 I’m currently learning Artifical Intelligence<br>⚡ Fun fact: I just graduated 
-
+🔭 Certified Freelancer<br>🌱 I’m currently learning Artifical Intelligence<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10684645) 
